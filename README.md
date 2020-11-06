@@ -1,7 +1,7 @@
 # Gamer-Fuel
 Azusa Pacific University Web Design Project
 
-Initial project was completed in Spring 201?
+Initial project was completed in Spring 2019
 It is archived in this repository as the branch 'Original'
 
 We decided to revisit the project and will work on it for our own personal experience
